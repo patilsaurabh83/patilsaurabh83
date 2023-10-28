@@ -1,4 +1,4 @@
-![logo]([https://github.com/patilsaurabh83/patilsaurabh83/blob/main/github-header-image.png](https://github.com/patilsaurabh83/patilsaurabh83/blob/main/Github%20Banner.png))
+![logo](https://github.com/patilsaurabh83/patilsaurabh83/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Saurabh Patil</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
