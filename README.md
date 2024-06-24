@@ -32,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patilsaurabh83&show_icons=true&locale=en" alt="patilsaurabh83" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patilsaurabh83&" alt="patilsaurabh83" /></p>
+
+<img src="https://raw.githubusercontent.com/patilsaurabh83/patilsaurabh83/output/snake.svg" alt="Snake animation" />
+
+###
