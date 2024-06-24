@@ -33,5 +33,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patilsaurabh83&" alt="patilsaurabh83" /></p>
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/patilsaurabh83/patilsaurabh83/output/snake.svg" alt="Snake animation" />
+
+###
 
